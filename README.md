@@ -8,3 +8,4 @@ use this cheat sheet
     COMMANDS
 VIDEOS
 TUTORIALS
+projects
